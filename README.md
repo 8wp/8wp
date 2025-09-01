@@ -31,7 +31,48 @@ I'm an **indie backend developer**, crafting my ideas one line of code at a time
 
 ### 📺 Latest Projects
 
-N/A
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/8wp/discord-message-scheduler">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/black.png" width="150">
+      </a>
+      <br>Discord Message Scheduler
+    </td>
+    <!-- <td align="center">
+      <a href="https://github.com/8wp/project-2">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/project2.png" width="150">
+      </a>
+      <br>Project 2
+    </td>
+    <td align="center">
+      <a href="https://github.com/8wp/project-3">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/project3.png" width="150">
+      </a>
+      <br>Project 3
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/8wp/project-4">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/project4.png" width="150">
+      </a>
+      <br>Project 4
+    </td>
+    <td align="center">
+      <a href="https://github.com/8wp/project-5">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/project5.png" width="150">
+      </a>
+      <br>Project 5
+    </td>
+    <td align="center">
+      <a href="https://github.com/8wp/project-6">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/project6.png" width="150">
+      </a>
+      <br>Project 6
+    </td> -->
+  </tr>
+</table>
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-View%20Other%20Projects-red?style=for-the-badge&logo=repo&logoColor=white"/>](https://github.com/8wp?tab=repositories)
 
