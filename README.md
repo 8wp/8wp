@@ -8,7 +8,7 @@ I'm an **indie backend developer**, crafting my ideas one line of code at a time
   <a href="https://discord.com/users/343551832670339072" target="_blank">
     <img 
       alt="discord-request" 
-      title="Contact Me on Discord" 
+      title="Contact me on Discord" 
       src="https://custom-icon-badges.demolab.com/badge/Contact%20Me-324aa8?style=for-the-badge&logo=discord&logoColor=ffffff"
 /></a> 
       <a href="https://github.com/8wp?tab=followers">
