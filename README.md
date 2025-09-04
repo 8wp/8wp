@@ -16,7 +16,10 @@ I'm an **indie backend developer**, crafting my ideas one line of code at a time
       <a href="https://github.com/8wp?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/8wp?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+---
+### Portfolio
 
+W.I.P
 ---
 
 ### 🧰 Languages and Tools
