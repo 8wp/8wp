@@ -55,22 +55,22 @@ W.I.P
         <img src="https://raw.githubusercontent.com/8wp/images/main/project4.png" width="150">
       </a>
       <br>Project
-    </td>
-    <td align="center">
-      <a href="https://github.com/8wp/project-5">
-        <img src="https://raw.githubusercontent.com/8wp/images/main/project5.png" width="150">
-      </a>
-      <br>Project
     </td> -->
     <td align="center">
+      <a href="https://github.com/8wp/guess-who-ai/tree/main">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/2A772A-folder.png" width="150">
+      </a>
+      <br>Guess Who AI
+    </td>
+    <td align="center">
       <a href="https://github.com/8wp/discord-trigger-message">
-        <img src="https://raw.githubusercontent.com/8wp/images/main/purple-folder.png" width="150">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/2E1267-folder.png" width="150">
       </a>
       <br>Discord Trigger Message
     </td> 
      <td align="center">
       <a href="https://github.com/8wp/discord-message-scheduler">
-        <img src="https://raw.githubusercontent.com/8wp/images/main/black-folder.png" width="150">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/2B313C-folder.png" width="150">
       </a>
       <br>Discord Message Scheduler 
     </td>
