@@ -57,25 +57,25 @@ I'm an **indie backend developer**, crafting my ideas one line of code at a time
   <tr>
     <td align="center">
       <a href="https://github.com/8wp/colour-conversion-tool">
-        <img src="https://raw.githubusercontent.com/8wp/images/main/560A5C-folder.png" width="150">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/6B68ED-folder.png" width="150">
       </a>
       <br>Colour Conversion Tool
     </td>
     <td align="center">
       <a href="https://github.com/8wp/guess-who-ai/tree/main">
-        <img src="https://raw.githubusercontent.com/8wp/images/main/2A772A-folder.png" width="150">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/4287F5-folder.png" width="150">
       </a>
       <br>Guess Who AI
     </td>
     <td align="center">
       <a href="https://github.com/8wp/discord-trigger-message">
-        <img src="https://raw.githubusercontent.com/8wp/images/main/2E1267-folder.png" width="150">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/3B7LED-folder.png" width="150">
       </a>
       <br>Discord Trigger Message
     </td> 
      <td align="center">
       <a href="https://github.com/8wp/discord-message-scheduler">
-        <img src="https://raw.githubusercontent.com/8wp/images/main/2B313C-folder.png" width="150">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/3E3BED-folder.png" width="150">
       </a>
       <br>Discord Message Scheduler 
     </td>
