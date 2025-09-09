@@ -66,7 +66,7 @@ I'm an **indie backend developer**, crafting my ideas one line of code at a time
         <img src="https://raw.githubusercontent.com/8wp/images/main/4287F5-folder.png" width="150">
       </a>
       <br>Guess Who AI
-    </td>
+    </td> 
     <td align="center">
       <a href="https://github.com/8wp/discord-trigger-message">
         <img src="https://raw.githubusercontent.com/8wp/images/main/3B7LED-folder.png" width="150">
