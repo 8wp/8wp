@@ -22,7 +22,7 @@ I'm an **indie backend developer**, crafting my ideas one line of code at a time
 ### 🧰 Portfolio
 
 
-<p>W.I.P</p> 
+<p>W.I.P (idk what to add here)</p> 
 
 #
 
