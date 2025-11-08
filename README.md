@@ -1,6 +1,6 @@
 # 8wp
 
-**`First Year CS student, majoring in Artificial Intelligence and Data Analytics`**
+**`CS student, majoring in Artificial Intelligence and Data Analytics`**
 
 I'm an **indie fullstack developer**, crafting my ideas one line of code at a time. Every project I work on begins with an idea, and through coding, I aim to turn those ideas into solutions for real-life problems. This **GitHub** page is a collection of those projects — open for anyone to explore and use. As I continue my coding journey, I strive to refine my work and revisit past projects, improving them until they reach their full potential.
 
