@@ -21,7 +21,6 @@ I'm an **indie fullstack developer**, crafting my ideas one line of code at a ti
 
 ### 🧰 Portfolio
 
-### ts taking a while...
 
 #
 
