@@ -17,7 +17,7 @@ I'm an **indie fullstack developer**, crafting my ideas one line of code at a ti
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/8wp?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-#
+# change above (note)
 
 ### 🧰 Portfolio
 
