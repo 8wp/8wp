@@ -6,10 +6,11 @@ I'm an **indie fullstack developer**, crafting my ideas one line of code at a ti
 
    <p align="left">
       <a href="https://github.com/8wp?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/8wp?color=38b6ff&labelColor=38b6ff&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/8wp?color=38b6ff&labelColor=38b6ff&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/
+      </a>
       <a href="https://github.com/8wp?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/8wp?color=38b6ff&style=for-the-badge&labelColor=38b6ff&logo=star"/></a>
-      <a href="https://discord.com/users/343551832670339072" target="_blank">
+      <a href="https://www.linkedin.com/in/cian-graham-686b93367" target="_blank">
          <img alt="discord-request" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-004aad?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>       
    </p>
    
