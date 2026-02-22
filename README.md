@@ -5,22 +5,15 @@
 I'm an **indie fullstack developer**, crafting my ideas one line of code at a time. Every project I work on begins with an idea, and through coding, I aim to turn those ideas into solutions for real-life problems. This **GitHub** page is a collection of those projects — open for anyone to explore and use. As I continue my coding journey, I strive to refine my work and revisit past projects, improving them until they reach their full potential.
 
    <p align="left">
-  <a href="https://discord.com/users/343551832670339072" target="_blank">
-    <img 
-      alt="discord-request" 
-      title="Contact me on Discord" 
-      src="https://custom-icon-badges.demolab.com/badge/Contact%20Me-324aa8?style=for-the-badge&logo=discord&logoColor=ffffff"
-/></a> 
       <a href="https://github.com/8wp?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/8wp?color=d0b503&labelColor=C79600&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/8wp?color=38b6ff&labelColor=38b6ff&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/8wp?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/8wp?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/8wp?color=38b6ff&style=for-the-badge&labelColor=38b6ff&logo=star"/></a>
+      <a href="https://discord.com/users/343551832670339072" target="_blank">
+         <img alt="discord-request" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-004aad?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>       
    </p>
-
-# change above (note)
-
+   
 ### 🧰 Portfolio
-
 
 #
 
