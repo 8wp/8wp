@@ -46,43 +46,29 @@ I'm an **indie fullstack developer**, crafting my ideas one line of code at a ti
 
 <table>
   <tr>
-    <!-- <td align="center">
-      <a href="https://github.com/8wp/project-2">
-        <img src="https://raw.githubusercontent.com/8wp/images/main/project2.png" width="150">
-      </a>
-      <br>Project
-    </td> -->
     <td align="center">
       <a href="https://kky4u.online/">
-        <img src="https://raw.githubusercontent.com/8wp/images/main/6B68ED-folder.png" width="150">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/38b6ff-folder-icon.png" width="150">
       </a>
       <br>KKY4U
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/8wp/colour-conversion-tool">
-        <img src="https://raw.githubusercontent.com/8wp/images/main/6B68ED-folder.png" width="150">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/5107ff-folder-icon.png" width="150">
       </a>
       <br>Colour Conversion Tool
-    </td>
+    </td> 
     <td align="center">
       <a href="https://github.com/8wp/guess-who-ai/tree/main">
-        <img src="https://raw.githubusercontent.com/8wp/images/main/4287F5-folder.png" width="150">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/004aad-folder-icon.png" width="150">
       </a>
       <br>Guess Who AI
     </td> 
-    <td align="center">
+     <td align="center">
       <a href="https://github.com/8wp/discord-trigger-message">
-        <img src="https://raw.githubusercontent.com/8wp/images/main/3B7LED-folder.png" width="150">
+        <img src="https://raw.githubusercontent.com/8wp/images/main/1800ad-folder-icon.png" width="150">
       </a>
       <br>Discord Trigger Message
-    </td> 
-     <td align="center">
-      <a href="https://github.com/8wp/discord-message-scheduler">
-        <img src="https://raw.githubusercontent.com/8wp/images/main/3E3BED-folder.png" width="150">
-      </a>
-      <br>Discord Message Scheduler 
     </td>
   </tr>
 </table>
