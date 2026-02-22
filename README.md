@@ -11,7 +11,7 @@ I'm an **indie fullstack developer**, crafting my ideas one line of code at a ti
          <img alt="discord-request" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-004aad?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>    
    </p>
    
-### 🧰 Portfolio
+### 🌐 Portfolio
 
 #
 
