@@ -10,6 +10,8 @@ I'm an **indie fullstack developer**, crafting my ideas one line of code at a ti
       <a href="https://www.linkedin.com/in/cian-graham-686b93367" target="_blank">
          <img alt="discord-request" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-004aad?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>    
    </p>
+
+#
    
 ### 🌐 Portfolio
 
@@ -76,5 +78,6 @@ https://ciangraham.vercel.app/
 ![](https://nirzak-streak-stats.vercel.app/?user=8wp&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=8wp&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+#
+
 [![](https://visitcount.itsvg.in/api?id=8wp&icon=0&color=0)](https://visitcount.itsvg.in)
